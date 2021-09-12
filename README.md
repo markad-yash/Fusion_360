@@ -26,6 +26,12 @@ STUDENT license will valid for 1yr
 
 # WE WILL BE MAKING A CUP
 
+
+
+![CUP RENDER DEMO](https://user-images.githubusercontent.com/58439868/132989174-967e7ec6-2a31-4817-9336-e232fff7e344.gif)
+
+
+
 ### FRONT VIEW OR MAIN WINDOW OF FUSION 360 WITH  ```CUP``` FILE NAME :
 
 ![1](https://user-images.githubusercontent.com/58439868/132986653-e9f647e7-46e8-4d5f-9414-823323b8522e.png)
