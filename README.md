@@ -28,7 +28,7 @@ STUDENT license will valid for 1yr
 
 
 
-![CUP RENDER DEMO](https://user-images.githubusercontent.com/58439868/132989174-967e7ec6-2a31-4817-9336-e232fff7e344.gif)
+![CUP-RENDER-DEMO-unscreen](https://user-images.githubusercontent.com/58439868/132989967-be9d8a74-5540-4e0a-a154-1d4e8dc794b6.gif)
 
 
 
