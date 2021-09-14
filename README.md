@@ -89,3 +89,22 @@ STUDENT license will valid for 1yr
 
 ![UP](https://user-images.githubusercontent.com/58439868/132987087-c824e2dd-0562-497b-92aa-25957f4b9c14.png)
 
+
+
+
+## STEP 5 :
+
+
+## STEP 6 :
+
+
+## STEP 7 :
+
+
+## STEP 8 :
+
+
+## STEP 9 :
+
+
+## STEP 10 :
