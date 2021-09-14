@@ -93,18 +93,42 @@ STUDENT license will valid for 1yr
 
 
 ## STEP 5 :
+![06 HANDEL SKETCH](https://user-images.githubusercontent.com/58439868/133222177-2cde9f8f-fc33-43e2-a74c-2fed72cfedd5.png)
 
 
 ## STEP 6 :
+![07 HANDEL SKETCH](https://user-images.githubusercontent.com/58439868/133222202-2fec5124-bbfd-43fb-8e16-d23bebed3942.png)
 
 
 ## STEP 7 :
+![08 EXTRUDING HANDEL BAR](https://user-images.githubusercontent.com/58439868/133222210-254cc46d-0bc3-4e69-9451-c4ac55c8e343.png)
 
 
 ## STEP 8 :
+![09 HOLLOW CUP](https://user-images.githubusercontent.com/58439868/133222228-b9f34b95-aab0-4a5e-af1b-d5aedb37baad.png)
 
 
 ## STEP 9 :
+![10 SMOOTHING EDGES](https://user-images.githubusercontent.com/58439868/133222248-d7829aee-734c-4ca9-8d41-7f73f20e5c3a.png)
 
 
 ## STEP 10 :
+![11 SMOOTHING CUP  TOP EDGES](https://user-images.githubusercontent.com/58439868/133222283-e9a76011-f15c-4f73-849b-ed501a3dd306.png)
+
+## STEP 11 :
+![12 3D ROUGH LOOK](https://user-images.githubusercontent.com/58439868/133222360-2674ca0c-2c6f-469d-8596-ef4cebbce937.png)
+
+
+## STEP 12 :
+
+![13 PAINTING](https://user-images.githubusercontent.com/58439868/133222392-fe6bfe61-28be-44dd-b033-e7b1f32e556e.png)
+
+
+
+## STEP 13 :
+
+![14 TRYING COLOR](https://user-images.githubusercontent.com/58439868/133222515-1a4616b2-df86-4f6c-9162-38f7a3691816.png)
+
+## STEP 14 :
+![18 FINAL RENDER](https://user-images.githubusercontent.com/58439868/133222580-769b6b85-f04f-4017-8f9d-ed4c81d30e0a.png)
+
