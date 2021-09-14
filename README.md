@@ -18,7 +18,7 @@ STUDENT license will valid for 1yr
 
 - Basically we call 3D object as: ```An object is 3D if it is has three dimensions: length, breadth and height.```
 
-- We are using 3D sofware [FUSION 360](https://github.com/markad-yash/Fusion_360/edit/main/README.md) for creating or making our imagination in real world or giving shape to our ideas. This is the best way to represent our idea/Imagination.
+- We are using 3D sofware [FUSION 360](https://github.com/markad-yash/Fusion_360/) for creating or making our imagination in real world or giving shape to our ideas. This is the best way to represent our idea/Imagination.
 
 
 
