@@ -16,7 +16,7 @@
 
 ### FOR FREE USE APPLY FOR [STUDENT LICENSE](https://www.autodesk.in/campaigns/education/fusion-360) 
 
-STUDENT license will valid for 1yr 
+STUDENT license will valid for 1 year only.
 
 # POINTS 
 
