@@ -18,7 +18,7 @@
 
 STUDENT license will valid for 1 year only.
 
-# POINTS 
+# POINTS :
 
 - Every single physical object or things are in this world are in 3D shape and we use 2D representation for basic visulization in books.
 
