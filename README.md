@@ -6,7 +6,7 @@
 
 >Fusion 360 is a cloud-based 3D modeling, CAD, CAM, CAE, and PCB software platform for product design and manufacturing. Design and engineer products to ensure aesthetics, form, fit, and function. ... Directly edit existing features or model fixtures with the only truly integrated CAD + CAM software tool.
 
-# SOURCES TO LEARN FUSION 360
+# SOURCES TO LEARN FUSION 360:
 
 - [Autodesk Fusion 360](https://www.youtube.com/c/AutodeskFusion360)
 
